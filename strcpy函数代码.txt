@@ -10,6 +10,6 @@ char *StrCpy(char *src)
     return dst;
 };
 /**
-本地编辑
+远程edit
 **/
 
